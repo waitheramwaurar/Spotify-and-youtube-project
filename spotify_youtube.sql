@@ -2,8 +2,8 @@ CREATE DATABASE spotify_and_youtube_data;
 USE spotify_and_youtube_data;
 
 CREATE TABLE artists(
-	artist_id INT PRIMARY KEY,
-    artist_name VARCHAR(255)
+	artist_id INT PRIMARY KEY NOT NULL,
+    artist_name VARCHAR(255) NOT NULL
 );
 
 INSERT INTO artists (artist_id, artist_name)
@@ -12,14 +12,11 @@ VALUES
 (1, 'Red Hot Chili Peppers'),
 (2, '50 Cent');
 
-ALTER TABLE artists
-MODIFY COLUMN artist_id INT NOT NULL;
-
 CREATE TABLE albums (
-	album_id INT PRIMARY KEY,
-    album_name VARCHAR(255),
+	album_id INT PRIMARY KEY NOT NULL,
+    album_name VARCHAR(255) NOT NULL,
     album_type VARCHAR(255),
-    artist_id INT,
+    artist_id INT NOT NULL,
     FOREIGN KEY (artist_id) REFERENCES artists(artist_id)
 );
 
@@ -31,8 +28,9 @@ VALUES
 
 CREATE TABLE tracks(
 	track_id INT NOT NULL PRIMARY KEY,
-    track_name VARCHAR(255),
-    album_id INT,
+    track_name VARCHAR(255) NOT NULL,
+    album_id INT NOT NULL,
+    artist_id INT NOT NULL,
     danceability FLOAT,
     energy FLOAT,
     track_key FLOAT,
@@ -45,18 +43,19 @@ CREATE TABLE tracks(
 	tempo FLOAT,
 	duration_ms INT,
     streams INT,
-    FOREIGN KEY (album_id) REFERENCES albums(album_id)
+    FOREIGN KEY (album_id) REFERENCES albums(album_id),
+    FOREIGN KEY (artist_id) REFERENCES artists(artist_id)
 );
 
-INSERT INTO tracks (track_id, track_name, album_id, danceability, energy, track_key, loudness, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration_ms, streams)
+INSERT INTO tracks (track_id, track_name, album_id, artist_id, danceability, energy, track_key, loudness, speechiness, acousticness, instrumentalness, liveness, valence, tempo, duration_ms, streams)
 VALUES
-	(0, 'Feel Good Inc.', 0, 0.818, 0.705, 6, -6.679, 0.177, 0.00836, 0.00233, 0.613, 0.772, 138.559, 222640, 1040234854),
-    (1, 'On Melancholy Hill', 1, 0.689, 0.739, 2, -5.81, 0.026, 0.0000151, 0.509, 0.064, 0.578, 120.223, 233867, 434663559),
-    (2, 'Californication', 2, 0.592, 0.767, 9, -2.788, 0.027, 0.0021, 0.00165, 0.127, 0.328, 96.483, 329733, 1055738398);
+	(0, 'Feel Good Inc.', 0, 0, 0.818, 0.705, 6, -6.679, 0.177, 0.00836, 0.00233, 0.613, 0.772, 138.559, 222640, 1040234854),
+    (1, 'On Melancholy Hill', 1, 0, 0.689, 0.739, 2, -5.81, 0.026, 0.0000151, 0.509, 0.064, 0.578, 120.223, 233867, 434663559),
+    (2, 'Californication', 2, 1, 0.592, 0.767, 9, -2.788, 0.027, 0.0021, 0.00165, 0.127, 0.328, 96.483, 329733, 1055738398);
     
 CREATE TABLE videos (
-	video_id INT PRIMARY KEY,
-    track_id INT,
+	video_id INT PRIMARY KEY NOT NULL,
+    track_id INT NOT NULL,
     url_youtube VARCHAR(255),
     title VARCHAR(255),
     yt_channel VARCHAR(255),

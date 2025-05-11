@@ -1,0 +1,323 @@
+Track,Feature,Value
+"Something Just Like This",Danceability,0.617
+Despacito,Danceability,0.655
+"Calma - Remix",Danceability,0.826
+Despacito,Danceability,0.655
+"Échame La Culpa",Danceability,0.733
+"Somebody That I Used To Know",Danceability,0.576
+Perfect,Danceability,0.769
+"Gangnam Style (강남스타일)",Danceability,0.727
+"Wheels On The Bus",Danceability,0.818
+Perfect,Danceability,0.494
+"Uptown Funk (feat. Bruno Mars)",Danceability,0.856
+"Bang Bang",Danceability,0.705
+"Somebody That I Used To Know",Danceability,0.864
+"This Is What You Came For",Danceability,0.631
+"Thrift Shop (feat. Wanz)",Danceability,0.781
+Perfect,Danceability,0.599
+"Shape of You",Danceability,0.825
+"See You Again (feat. Charlie Puth)",Danceability,0.689
+"This Is What You Came For",Danceability,0.631
+"No Me Conoce - Remix",Danceability,0.804
+"Con Altura",Danceability,0.882
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Danceability,0.696
+"Calma - Remix",Danceability,0.826
+"Bang Bang",Danceability,0.706
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Danceability,0.696
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Danceability,0.842
+"Échame La Culpa",Danceability,0.733
+"Lean On",Danceability,0.723
+"Thrift Shop (feat. Wanz)",Danceability,0.781
+"Somebody That I Used To Know",Danceability,0.864
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Danceability,0.696
+"Bang Bang",Danceability,0.705
+Perfect,Danceability,0.647
+"See You Again (feat. Charlie Puth)",Danceability,0.689
+"Thrift Shop (feat. Wanz)",Danceability,0.781
+"Bang Bang",Danceability,0.706
+"Lean On",Danceability,0.723
+"Sin Pijama",Danceability,0.788
+"Something Just Like This",Danceability,0.617
+"Sin Pijama",Danceability,0.788
+"Lean On",Danceability,0.723
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Danceability,0.842
+"Bang Bang",Danceability,0.553
+"Con Altura",Danceability,0.882
+"No Me Conoce - Remix",Danceability,0.804
+"Wheels on the Bus",Danceability,0.941
+"Something Just Like This",Energy,0.635
+Despacito,Energy,0.797
+"Calma - Remix",Energy,0.764
+Despacito,Energy,0.797
+"Échame La Culpa",Energy,0.897
+"Somebody That I Used To Know",Energy,0.367
+Perfect,Energy,0.829
+"Gangnam Style (강남스타일)",Energy,0.937
+"Wheels On The Bus",Energy,0.309
+Perfect,Energy,0.672
+"Uptown Funk (feat. Bruno Mars)",Energy,0.609
+"Bang Bang",Energy,0.678
+"Somebody That I Used To Know",Energy,0.495
+"This Is What You Came For",Energy,0.927
+"Thrift Shop (feat. Wanz)",Energy,0.526
+Perfect,Energy,0.448
+"Shape of You",Energy,0.652
+"See You Again (feat. Charlie Puth)",Energy,0.481
+"This Is What You Came For",Energy,0.927
+"No Me Conoce - Remix",Energy,0.787
+"Con Altura",Energy,0.689
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Energy,0.817
+"Calma - Remix",Energy,0.764
+"Bang Bang",Energy,0.786
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Energy,0.817
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Energy,0.801
+"Échame La Culpa",Energy,0.897
+"Lean On",Energy,0.809
+"Thrift Shop (feat. Wanz)",Energy,0.526
+"Somebody That I Used To Know",Energy,0.495
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Energy,0.817
+"Bang Bang",Energy,0.678
+Perfect,Energy,0.823
+"See You Again (feat. Charlie Puth)",Energy,0.481
+"Thrift Shop (feat. Wanz)",Energy,0.526
+"Bang Bang",Energy,0.786
+"Lean On",Energy,0.809
+"Sin Pijama",Energy,0.745
+"Something Just Like This",Energy,0.635
+"Sin Pijama",Energy,0.745
+"Lean On",Energy,0.809
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Energy,0.801
+"Bang Bang",Energy,0.742
+"Con Altura",Energy,0.689
+"No Me Conoce - Remix",Energy,0.787
+"Wheels on the Bus",Energy,0.387
+"Something Just Like This",Valence,0.446
+Despacito,Valence,0.839
+"Calma - Remix",Valence,0.761
+Despacito,Valence,0.839
+"Échame La Culpa",Valence,0.649
+"Somebody That I Used To Know",Valence,0.77
+Perfect,Valence,0.648
+"Gangnam Style (강남스타일)",Valence,0.749
+"Wheels On The Bus",Valence,0.797
+Perfect,Valence,0.557
+"Uptown Funk (feat. Bruno Mars)",Valence,0.928
+"Bang Bang",Valence,0.691
+"Somebody That I Used To Know",Valence,0.72
+"This Is What You Came For",Valence,0.465
+"Thrift Shop (feat. Wanz)",Valence,0.665
+Perfect,Valence,0.168
+"Shape of You",Valence,0.931
+"See You Again (feat. Charlie Puth)",Valence,0.283
+"This Is What You Came For",Valence,0.465
+"No Me Conoce - Remix",Valence,0.562
+"Con Altura",Valence,0.746
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Valence,0.782
+"Calma - Remix",Valence,0.761
+"Bang Bang",Valence,0.751
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Valence,0.782
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Valence,0.617
+"Échame La Culpa",Valence,0.649
+"Lean On",Valence,0.274
+"Thrift Shop (feat. Wanz)",Valence,0.665
+"Somebody That I Used To Know",Valence,0.72
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Valence,0.782
+"Bang Bang",Valence,0.691
+Perfect,Valence,0.396
+"See You Again (feat. Charlie Puth)",Valence,0.283
+"Thrift Shop (feat. Wanz)",Valence,0.665
+"Bang Bang",Valence,0.751
+"Lean On",Valence,0.274
+"Sin Pijama",Valence,0.79
+"Something Just Like This",Valence,0.446
+"Sin Pijama",Valence,0.79
+"Lean On",Valence,0.274
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Valence,0.617
+"Bang Bang",Valence,0.437
+"Con Altura",Valence,0.746
+"No Me Conoce - Remix",Valence,0.562
+"Wheels on the Bus",Valence,0.965
+"Something Just Like This",Acousticness,0.0498
+Despacito,Acousticness,0.198
+"Calma - Remix",Acousticness,0.337
+Despacito,Acousticness,0.198
+"Échame La Culpa",Acousticness,0.0391
+"Somebody That I Used To Know",Acousticness,0.432
+Perfect,Acousticness,0.00948
+"Gangnam Style (강남스타일)",Acousticness,0.00417
+"Wheels On The Bus",Acousticness,0.656
+Perfect,Acousticness,0.0273
+"Uptown Funk (feat. Bruno Mars)",Acousticness,0.00801
+"Bang Bang",Acousticness,0.0483
+"Somebody That I Used To Know",Acousticness,0.591
+"This Is What You Came For",Acousticness,0.199
+"Thrift Shop (feat. Wanz)",Acousticness,0.0633
+Perfect,Acousticness,0.163
+"Shape of You",Acousticness,0.581
+"See You Again (feat. Charlie Puth)",Acousticness,0.369
+"This Is What You Came For",Acousticness,0.199
+"No Me Conoce - Remix",Acousticness,0.14
+"Con Altura",Acousticness,0.39
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Acousticness,0.075
+"Calma - Remix",Acousticness,0.337
+"Bang Bang",Acousticness,0.26
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Acousticness,0.075
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Acousticness,0.157
+"Échame La Culpa",Acousticness,0.0391
+"Lean On",Acousticness,0.00346
+"Thrift Shop (feat. Wanz)",Acousticness,0.0633
+"Somebody That I Used To Know",Acousticness,0.591
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Acousticness,0.075
+"Bang Bang",Acousticness,0.0483
+Perfect,Acousticness,0.0598
+"See You Again (feat. Charlie Puth)",Acousticness,0.369
+"Thrift Shop (feat. Wanz)",Acousticness,0.0633
+"Bang Bang",Acousticness,0.26
+"Lean On",Acousticness,0.00346
+"Sin Pijama",Acousticness,0.352
+"Something Just Like This",Acousticness,0.0498
+"Sin Pijama",Acousticness,0.352
+"Lean On",Acousticness,0.00346
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Acousticness,0.157
+"Bang Bang",Acousticness,0.268
+"Con Altura",Acousticness,0.39
+"No Me Conoce - Remix",Acousticness,0.14
+"Wheels on the Bus",Acousticness,0.184
+"Something Just Like This",Speechiness,0.0317
+Despacito,Speechiness,0.153
+"Calma - Remix",Speechiness,0.0522
+Despacito,Speechiness,0.153
+"Échame La Culpa",Speechiness,0.0389
+"Somebody That I Used To Know",Speechiness,0.03
+Perfect,Speechiness,0.0661
+"Gangnam Style (강남스타일)",Speechiness,0.286
+"Wheels On The Bus",Speechiness,0.0771
+Perfect,Speechiness,0.0405
+"Uptown Funk (feat. Bruno Mars)",Speechiness,0.0824
+"Bang Bang",Speechiness,0.0415
+"Somebody That I Used To Know",Speechiness,0.037
+"This Is What You Came For",Speechiness,0.0332
+"Thrift Shop (feat. Wanz)",Speechiness,0.293
+Perfect,Speechiness,0.0232
+"Shape of You",Speechiness,0.0802
+"See You Again (feat. Charlie Puth)",Speechiness,0.0815
+"This Is What You Came For",Speechiness,0.0332
+"No Me Conoce - Remix",Speechiness,0.0746
+"Con Altura",Speechiness,0.124
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Speechiness,0.109
+"Calma - Remix",Speechiness,0.0522
+"Bang Bang",Speechiness,0.091
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Speechiness,0.109
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Speechiness,0.228
+"Échame La Culpa",Speechiness,0.0389
+"Lean On",Speechiness,0.0625
+"Thrift Shop (feat. Wanz)",Speechiness,0.293
+"Somebody That I Used To Know",Speechiness,0.037
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Speechiness,0.109
+"Bang Bang",Speechiness,0.0415
+Perfect,Speechiness,0.0762
+"See You Again (feat. Charlie Puth)",Speechiness,0.0815
+"Thrift Shop (feat. Wanz)",Speechiness,0.293
+"Bang Bang",Speechiness,0.091
+"Lean On",Speechiness,0.0625
+"Sin Pijama",Speechiness,0.0448
+"Something Just Like This",Speechiness,0.0317
+"Sin Pijama",Speechiness,0.0448
+"Lean On",Speechiness,0.0625
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Speechiness,0.228
+"Bang Bang",Speechiness,0.0368
+"Con Altura",Speechiness,0.124
+"No Me Conoce - Remix",Speechiness,0.0746
+"Wheels on the Bus",Speechiness,0.0427
+"Something Just Like This",Instrumentalness,0.0000144
+Despacito,Instrumentalness,0
+"Calma - Remix",Instrumentalness,0
+Despacito,Instrumentalness,0
+"Échame La Culpa",Instrumentalness,0
+"Somebody That I Used To Know",Instrumentalness,0.00000224
+Perfect,Instrumentalness,0.0000665
+"Gangnam Style (강남스타일)",Instrumentalness,0
+"Wheels On The Bus",Instrumentalness,0
+Perfect,Instrumentalness,0
+"Uptown Funk (feat. Bruno Mars)",Instrumentalness,0.0000815
+"Bang Bang",Instrumentalness,0.0000701
+"Somebody That I Used To Know",Instrumentalness,0.000133
+"This Is What You Came For",Instrumentalness,0.119
+"Thrift Shop (feat. Wanz)",Instrumentalness,0
+Perfect,Instrumentalness,0
+"Shape of You",Instrumentalness,0
+"See You Again (feat. Charlie Puth)",Instrumentalness,0.00000103
+"This Is What You Came For",Instrumentalness,0.119
+"No Me Conoce - Remix",Instrumentalness,0
+"Con Altura",Instrumentalness,0.00325
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Instrumentalness,0
+"Calma - Remix",Instrumentalness,0
+"Bang Bang",Instrumentalness,0
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Instrumentalness,0
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Instrumentalness,0.00000482
+"Échame La Culpa",Instrumentalness,0
+"Lean On",Instrumentalness,0.00123
+"Thrift Shop (feat. Wanz)",Instrumentalness,0
+"Somebody That I Used To Know",Instrumentalness,0.000133
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Instrumentalness,0
+"Bang Bang",Instrumentalness,0.0000701
+Perfect,Instrumentalness,0
+"See You Again (feat. Charlie Puth)",Instrumentalness,0.00000103
+"Thrift Shop (feat. Wanz)",Instrumentalness,0
+"Bang Bang",Instrumentalness,0
+"Lean On",Instrumentalness,0.00123
+"Sin Pijama",Instrumentalness,0.0000456
+"Something Just Like This",Instrumentalness,0.0000144
+"Sin Pijama",Instrumentalness,0.0000456
+"Lean On",Instrumentalness,0.00123
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Instrumentalness,0.00000482
+"Bang Bang",Instrumentalness,0
+"Con Altura",Instrumentalness,0.00325
+"No Me Conoce - Remix",Instrumentalness,0
+"Wheels on the Bus",Instrumentalness,0.0000288
+"Something Just Like This",Liveness,0.164
+Despacito,Liveness,0.067
+"Calma - Remix",Liveness,0.161
+Despacito,Liveness,0.067
+"Échame La Culpa",Liveness,0.117
+"Somebody That I Used To Know",Liveness,0.124
+Perfect,Liveness,0.301
+"Gangnam Style (강남스타일)",Liveness,0.091
+"Wheels On The Bus",Liveness,0.439
+Perfect,Liveness,0.105
+"Uptown Funk (feat. Bruno Mars)",Liveness,0.0344
+"Bang Bang",Liveness,0.496
+"Somebody That I Used To Know",Liveness,0.0992
+"This Is What You Came For",Liveness,0.148
+"Thrift Shop (feat. Wanz)",Liveness,0.0457
+Perfect,Liveness,0.106
+"Shape of You",Liveness,0.0931
+"See You Again (feat. Charlie Puth)",Liveness,0.0649
+"This Is What You Came For",Liveness,0.148
+"No Me Conoce - Remix",Liveness,0.0927
+"Con Altura",Liveness,0.0501
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Liveness,0.187
+"Calma - Remix",Liveness,0.161
+"Bang Bang",Liveness,0.38
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Liveness,0.187
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Liveness,0.0642
+"Échame La Culpa",Liveness,0.117
+"Lean On",Liveness,0.565
+"Thrift Shop (feat. Wanz)",Liveness,0.0457
+"Somebody That I Used To Know",Liveness,0.0992
+"Swalla (feat. Nicki Minaj & Ty Dolla $ign)",Liveness,0.187
+"Bang Bang",Liveness,0.496
+Perfect,Liveness,0.119
+"See You Again (feat. Charlie Puth)",Liveness,0.0649
+"Thrift Shop (feat. Wanz)",Liveness,0.0457
+"Bang Bang",Liveness,0.38
+"Lean On",Liveness,0.565
+"Sin Pijama",Liveness,0.0973
+"Something Just Like This",Liveness,0.164
+"Sin Pijama",Liveness,0.0973
+"Lean On",Liveness,0.565
+"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",Liveness,0.0642
+"Bang Bang",Liveness,0.341
+"Con Altura",Liveness,0.0501
+"No Me Conoce - Remix",Liveness,0.0927
+"Wheels on the Bus",Liveness,0.157
