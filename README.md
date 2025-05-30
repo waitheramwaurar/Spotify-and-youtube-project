@@ -10,13 +10,13 @@ Spotify has noticed that people might be shifting their listening habits due to 
 
 To explore this possibility, I focused on answering a few key questions:
 
-**1. What are the top 10 most-streamed songs on Spotify, and how are they performing on YouTube?**
+**1. What are the top 10 most-streamed songs and artists on Spotify, and how are they performing on YouTube?**
 
-This gives insight into whether the most-listened songs on Spotify also attract views on YouTube basically, is there an audience overlap?
+This gives insight into whether the most-listened to songs on Spotify also attract views on YouTube basically, is there an audience overlap?
 
 **2. What are the top 10 most-viewed songs on YouTube, and how do they perform on Spotify?**
 
-This tells us whether videos that are popular on YouTube have a listener base on Spotify — helpful to know if Spotify users would actually engage with them in video format.
+This tells us whether videos that are popular on YouTube have a listener base on Spotify — helpful to know if YouTube users would actually shift apps if their favorite content were to be offered on Spotify, which is lower-priced compared to YouTube.
 
 **3. What’s the “shape” or makeup of the top songs on each platform?**
 
@@ -71,6 +71,39 @@ I also dropped the Title and Description columns, because the rest of the column
 5. Reshaping the dataset to visualize the features of each song (top 20 songs).
 
 ## Findings
+### What are the top 10 most-streamed songs on Spotify, and how are they performing on YouTube?
+#### Top Artists on Spotify
+![image](https://github.com/user-attachments/assets/3073fd9c-8408-4aa9-9347-65105f702a0a)
+
+#### Performance of Spotify's Top Artists on YouTube
+![image](https://github.com/user-attachments/assets/ee4b75ad-8aba-47f4-ac5c-b6d0b607e13c)
+
+From the data, we can see that most of the top artists on Spotify are doing relatively well on YouTube. It can be inferred that, people go to YouTube to watch the videos of the songs that they have liked on Spotify.
+
+### What are the top 10 most-viewed songs on YouTube, and how do they perform on Spotify?
+#### Top Artists on YouTube
+![image](https://github.com/user-attachments/assets/f32a19da-6926-4df8-b464-5858bff55146)
+
+#### Perfomance of YouTube Top Artists on Spotify
+![image](https://github.com/user-attachments/assets/84af4789-86cd-44bd-b3c2-0f4b57849baf)
+
+From the data, we can see that the top YouTube artists are not doing on too bad on Spotify but they're also not doing very good compared to how Spotify artists performed on YouTube.
+
+### What’s the “shape” or makeup of the top songs on each platform?
+![image](https://github.com/user-attachments/assets/177863a1-1113-43ab-bf29-e9035665cb3a)
+
+![image](https://github.com/user-attachments/assets/38ac0606-53d5-43d8-b224-534d5568b861)
 
 
+### What’s the average duration of the top 50 songs on both platforms?**
+![image](https://github.com/user-attachments/assets/5f95b34f-8260-4460-9513-8a1ddc981f9e)
+
+![image](https://github.com/user-attachments/assets/a82b62e5-6196-4de9-a695-b5f30571ffec)
+
+
+
+
+
+
+## Dashboard
 ![image](https://github.com/user-attachments/assets/dacfcb15-0f37-4cac-a1d0-6f4bdcfe056e)
