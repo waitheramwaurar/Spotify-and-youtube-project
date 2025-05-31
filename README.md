@@ -10,11 +10,11 @@ Spotify has noticed that people might be shifting their listening habits due to 
 
 To explore this possibility, I focused on answering a few key questions:
 
-**1. What are the top 10 most-streamed songs and artists on Spotify, and how are they performing on YouTube?**
+**1. Who are the most-streamed artists on Spotify, and how are they performing on YouTube?**
 
-This gives insight into whether the most-listened to songs on Spotify also attract views on YouTube basically, is there an audience overlap?
+This gives insight into whether the most-listened to artists on Spotify also attract views on YouTube basically, is there an audience overlap?
 
-**2. What are the top 10 most-viewed songs on YouTube, and how do they perform on Spotify?**
+**2. Who are the most-viewed artists on YouTube, and how do they perform on Spotify?**
 
 This tells us whether videos that are popular on YouTube have a listener base on Spotify — helpful to know if YouTube users would actually shift apps if their favorite content were to be offered on Spotify, which is lower-priced compared to YouTube.
 
@@ -71,39 +71,69 @@ I also dropped the Title and Description columns, because the rest of the column
 5. Reshaping the dataset to visualize the features of each song (top 20 songs).
 
 ## Findings
-### What are the top 10 most-streamed songs on Spotify, and how are they performing on YouTube?
+### Who are the most-streamed artists on Spotify, and how are they performing on YouTube?
 #### Top Artists on Spotify
 ![image](https://github.com/user-attachments/assets/3073fd9c-8408-4aa9-9347-65105f702a0a)
 
 #### Performance of Spotify's Top Artists on YouTube
 ![image](https://github.com/user-attachments/assets/ee4b75ad-8aba-47f4-ac5c-b6d0b607e13c)
 
-From the data, we can see that most of the top artists on Spotify are doing relatively well on YouTube. It can be inferred that, people go to YouTube to watch the videos of the songs that they have liked on Spotify.
+From the charts, it's clear that most of Spotify’s top artists are also doing well on YouTube. While the views don’t always match the exact stream numbers, there’s definitely an audience overlap. This suggests that people who discover or enjoy music on Spotify often head to YouTube to watch the videos.
 
-### What are the top 10 most-viewed songs on YouTube, and how do they perform on Spotify?
+Key takeaway: There’s already a connection between audio and video behavior. Spotify users seem to want visuals for the music from the artists they love.
+
+### Who are the most-viewed artists on YouTube, and how do they perform on Spotify?
 #### Top Artists on YouTube
-![image](https://github.com/user-attachments/assets/f32a19da-6926-4df8-b464-5858bff55146)
+![image](https://github.com/user-attachments/assets/752df39f-47b8-455c-92c6-d6b1e103cc75)
 
 #### Perfomance of YouTube Top Artists on Spotify
 ![image](https://github.com/user-attachments/assets/84af4789-86cd-44bd-b3c2-0f4b57849baf)
 
-From the data, we can see that the top YouTube artists are not doing on too bad on Spotify but they're also not doing very good compared to how Spotify artists performed on YouTube.
+YouTube’s top artists have huge view counts, but they’re not doing quite as well on Spotify compared to how Spotify’s top artists perform on YouTube. This might mean that YouTube has a more video-focused user base, or maybe the artists just have a stronger presence there e.g Coco Melon.
+
+Takeaway: While YouTube users are loyal to the platform, there’s still potential for Spotify to attract them, especially if video options are added.
 
 ### What’s the “shape” or makeup of the top songs on each platform?
-![image](https://github.com/user-attachments/assets/177863a1-1113-43ab-bf29-e9035665cb3a)
-
-![image](https://github.com/user-attachments/assets/38ac0606-53d5-43d8-b224-534d5568b861)
+![image](https://github.com/user-attachments/assets/9c33e0eb-b22d-4fbd-bfab-ada302bd33d7)
 
 
-### What’s the average duration of the top 50 songs on both platforms?**
+![image](https://github.com/user-attachments/assets/2009cc32-9887-42c4-b7c0-b7e85f68b28a)
+
+
+I looked at things like danceability, energy, and valence, and the patterns were surprisingly similar. For both platforms, the most prevalent features in the songs are valence, danceability and energy. This means that people like highly danceable songs with lots of energy and positivity (both platforms tend to favor upbeat, high-energy tracks, not a huge surprise, but good to confirm).
+
+Spotify wouldn’t need to change its algorithm too much to support videos. The musical "vibe" is already pretty aligned across both platforms.
+
+### What’s the average duration of the top 50 songs on both platforms?
 ![image](https://github.com/user-attachments/assets/5f95b34f-8260-4460-9513-8a1ddc981f9e)
 
 ![image](https://github.com/user-attachments/assets/a82b62e5-6196-4de9-a695-b5f30571ffec)
 
+The average song lengths on both platforms are pretty close — there’s no big difference here. That’s great news for Spotify, because longer videos would’ve meant higher hosting costs.
 
-
-
+Conclusion: If Spotify moves forward with music videos, it won’t have to worry too much about longer content blowing up its infrastructure budget.
 
 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/dacfcb15-0f37-4cac-a1d0-6f4bdcfe056e)
+
+## Recommendations
+1. Start by adding videos for top-streamed songs
+   
+Since Spotify’s top artists are already doing well on YouTube, there's strong evidence that fans want video content for these songs. Spotify can begin by rolling out music videos for the top 10–50 streamed tracks. It’s a low-risk way to test demand without overwhelming the platform.
+
+2. Use YouTube viewership as a signal for what to prioritize
+
+Some artists do really well on YouTube but not as much on Spotify. This could be a strategic opportunity: add videos for these artists to attract their existing YouTube audience over to Spotify, especially since Spotify Premium is more affordable.
+
+3. Keep the audio vibe consistent
+   
+The musical features of popular songs on both platforms are similar. That means Spotify doesn’t need to dramatically shift its recommendation algorithm to support video content. Just adding visuals to existing hits might already hit the mark for user experience.
+
+4. Introduce videos as a premium perk
+   
+If the video rollout is successful, it could be bundled into Spotify Premium to add extra value and attract YouTube users who are frustrated by frequent ads. This could be a key differentiator in the subscription space.
+
+## Conclusion
+
+It looks like Spotify might just be onto something. The overlap between what people stream on Spotify and what they watch on YouTube is no coincidence — the musical DNA is strikingly similar. From danceable beats to feel-good energy and nearly identical song lengths, the groundwork is already there. If Spotify decides to lean further into video content, it won’t be starting from scratch. The audience exists, the content aligns, and let’s be honest — we could all use fewer ads in our lives.
